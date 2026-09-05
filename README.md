@@ -498,7 +498,7 @@ Practical implementations of data structures and algorithms using:
   &nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="32" height="32" alt="C++"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="32" height="32" alt="Java"/>
+  <img src="https://github.com/user-attachments/assets/a4a113ac-cfaf-42c5-97e9-2bacfa64eafb" width="32" height="32" alt="Java"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python"/>
 </p>
