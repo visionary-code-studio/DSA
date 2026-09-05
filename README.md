@@ -50,7 +50,7 @@ The concepts and algorithms in this repository may be implemented using any of t
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com/">
-  <img src="https://github.com/user-attachments/assets/434d044c-e79e-4eba-99cd-0741f6254b67" alt="Java" width="65 height="65" />
+  <img src="https://github.com/user-attachments/assets/a4a113ac-cfaf-42c5-97e9-2bacfa64eafb" alt="Java" width="65 height="65" />
 "
   </a>
   &nbsp;&nbsp;&nbsp;
