@@ -1,7 +1,7 @@
 # 📚 DSA — Data Structures & Algorithms
 
 <p align="center">
-  <img src="./assets/dsa-roadmap.png" alt="DSA Roadmap" width="750"/>
+  <img src="DSA roadmap.png" alt="DSA Roadmap" width="750"/>
 </p>
 
 <p align="center">
